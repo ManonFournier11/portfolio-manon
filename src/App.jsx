@@ -125,13 +125,13 @@ function App() {
               
               <div className="about-text">
                 <p className="about-intro">
-                  Passionnée par la création de produits à impact, je combine une expertise solide en <strong>communication stratégique</strong> avec une maîtrise croissante des <strong>méthodologies Agiles</strong> et du <strong>pilotage produit</strong>.
+                  Passionnée par la création de produits à impact, je <strong>capitalise</strong> sur une expertise solide en communication stratégique et en accompagnement du changement pour piloter des produits digitaux en <strong>méthodologies agiles.</strong>
                 </p>
                 <p>
-                  Mon parcours de 10 ans en communication interne m'a permis de développer une compréhension fine des organisations, des enjeux de transformation et de l'importance de placer l'utilisateur au centre des décisions. Cette expérience est un atout majeur pour le métier de Product Owner.
+                  Mes 10 années en communication interne m'ont permis d'acquérir une compréhension fine des organisations complexes et des enjeux de transformation. Cette expérience est un atout majeur qui me permet de poser l'utilisateur au centre de chaque décision produit et d'aligner les parties prenantes.
                 </p>
                 <p>
-                  Aujourd'hui, je mets ces compétences au service de projets digitaux ambitieux, en facilitant les échanges entre équipes métiers et techniques, et en garantissant la livraison de solutions qui répondent aux vrais besoins.
+                  Aujourd'hui, je traduis ces compétences dans des projets digitaux ambitieux, en construisant le consensus entre les équipes métiers et techniques, et en garantissant la valeur ajoutée des solutions livrées.
                 </p>
               </div>
 
@@ -157,18 +157,18 @@ function App() {
           <div className="about-highlights">
             <div className="highlight-card">
               <span className="highlight-icon">🎯</span>
-              <h3>Product Owner</h3>
-              <p>Gestion de backlog, priorisation, user stories, sprints</p>
+              <h3>Product Management</h3>
+              <p>Gestion de backlog, priorisation, user stories, sprints, roadmap, vision, stratégies, OKR.</p>
             </div>
             <div className="highlight-card">
               <span className="highlight-icon">🔄</span>
               <h3>Méthodologies Agiles</h3>
-              <p>Scrum, Kanban, rituels Agile, facilitation</p>
+              <p>Scrum, Kanban, rituels Agile, facilitation et animation.</p>
             </div>
             <div className="highlight-card">
               <span className="highlight-icon">💬</span>
               <h3>Communication</h3>
-              <p>10 ans d'expertise en communication interne et conduite du changement</p>
+              <p>10 ans d'expertise en communication interne et conduite du changement.</p>
             </div>
             <div className="highlight-card">
               <span className="highlight-icon">🛠️</span>
@@ -332,8 +332,8 @@ function App() {
                 <img src={logoEpitech} alt="Epitech" className="formation-logo" />
                 <span className="formation-badge">En cours</span>
               </div>
-              <h3>Master of Science</h3>
-              <h4>RNCP 7 - Strategic Project Management & Entrepreneurship</h4>
+              <h3>Master of Science - Strategic Project Management & Entrepreneurship</h3>
+              <h4>RNCP 7 - Alternance</h4>
               <p className="formation-school">Agilité & stratégie produit (Agile, Lean, pilotage de projets, roadmap & budgets), conception produit UX/UI (design, prototypage, delivery), transformation digitale (data, IA/ML, web, growth), business & management (business model, business plan, stratégie, change).</p>
               <p className="formation-school">Epitech - L'école de l'excellence informatique</p>
               <p className="formation-date">oct. 2025 - sept. 2027</p>
@@ -344,8 +344,8 @@ function App() {
               <div className="formation-card-header">
                 <img src={logoLaCapsule} alt="La Capsule" className="formation-logo" />
               </div>
-              <h3>Cloud & DevOps Engineer</h3>
-              <h4>RNCP 6 - Administrateur Système DevOps</h4>
+              <h3>Bachelor Cloud & DevOps Engineer - Administrateur Système DevOps</h3>
+              <h4>RNCP 6</h4>
               <p className="formation-school">Terminal & scripting, réseaux & administration, programmation, Mise en production, Infrastructure, Sécurité, Python, PostgreSQL, Git/GitLab, SonarQube, Docker, Kubernetes, AWS, Grafana, Prometheus, Ansible..</p>
               <p className="formation-school">La Capsule</p>
               <p className="formation-date">mars 2025 - juin 2025</p>
@@ -356,8 +356,8 @@ function App() {
               <div className="formation-card-header">
                 <img src={logoEfficom} alt="EFFICOM" className="formation-logo" />
               </div>
-              <h3>Master</h3>
-              <h4>RNCP 7 - Management Marketing Communication en alternance</h4>
+              <h3>Master - Management Marketing Communication</h3>
+              <h4>RNCP 7 - alternance</h4>
               <p className="formation-school">Stratégie de marque, communication marketing, data marketing, stratégie digitale, management de projet, innovation, outils professionnels (communication, créativité, personal branding).</p>
               <p className="formation-school">EFFICOM</p>
               <p className="formation-date">2018 - 2020</p>
@@ -368,8 +368,8 @@ function App() {
               <div className="formation-card-header">
                 <img src={logoEfficom} alt="EFFICOM" className="formation-logo" />
               </div>
-              <h3>Bachelor</h3>
-              <h4>RNCP 6 - Communication Marketing en alternance</h4>
+              <h3>Bachelor Communication Marketing</h3>
+              <h4>RNCP 6 - alternance</h4>
               <p className="formation-school">Analyse de marché & audit marketing, stratégie de marque & plan de communication, marketing digital (UX/UI, CMS, social media, trafic, e-mailing), droit & gestion commerciale, gestion de projet (Agile, budget, risques), outils professionnels (créativité, présentation, storytelling), anglais professionnel.</p>
               <p className="formation-school">EFFICOM</p>
               <p className="formation-date">2017 - 2018</p>
@@ -380,8 +380,8 @@ function App() {
               <div className="formation-card-header">
                 <img src={logoEfficom} alt="EFFICOM" className="formation-logo" />
               </div>
-              <h3>BTS</h3>
-              <h4>Négociation relation client en alternance</h4>
+              <h3>BTS Négociation relation client en alternance</h3>
+          
               <p className="formation-school">ATechniques de prospection, vente et négociation, gestion du point de vente, marketing fondamental et événementiel, communication digitale et de marque, animation de communautés, culture e-commerce, gestion de projet (méthodo, budget, clients/fournisseurs), prise de parole, communication interpersonnelle, anglais professionnel.</p>
               <p className="formation-school">EFFICOM</p>
               <p className="formation-date">2015 - 2017</p>
@@ -468,14 +468,7 @@ function App() {
                   <h4>S'affirmer dans sa communication</h4>
                   <p>PROconseils • Mai 2022</p>
                 </div>
-              </div>
-              <div className="certification-item">
-                <span className="certification-icon">🏥</span>
-                <div>
-                  <h4>Sauveteur secouriste du travail</h4>
-                  <p>INRS France • Mars 2023</p>
                 </div>
-              </div>
               <div className="certification-item">
                 <span className="certification-icon">🤝</span>
                 <div>

@@ -120,7 +120,7 @@ function App() {
               <span className="hero-badge">🎯 Recherche alternance en Product Management</span>
               <span className="section-label">À PROPOS</span>
               <h1 className="hero-title">
-                Product Owner <span className="highlight">Manager</span>
+                Product <span className="highlight">Management</span>
               </h1>
               
               <div className="about-text">

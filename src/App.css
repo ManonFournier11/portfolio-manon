@@ -933,7 +933,7 @@ section.visible {
 
 /* Langues */
 .languages {
-  background: var(--color-cream);
+  background: var(--color-primary);
   padding: var(--spacing-xl);
   border-radius: var(--radius-xl);
 }
@@ -941,7 +941,7 @@ section.visible {
 .languages-title {
   font-size: 1.5rem;
   font-weight: 600;
-  color: var(--color-gray-900);
+  color: white;
   margin-bottom: var(--spacing-lg);
   display: flex;
   align-items: center;

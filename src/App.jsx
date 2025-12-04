@@ -323,7 +323,7 @@ function App() {
       <section id="formation" className={`formation ${isVisible.formation ? 'visible' : ''}`}>
         <div className="section-container">
           <span className="section-label">FORMATIONS</span>
-          <h2 className="section-title">Parcours académique</h2>
+          <h2 className="section-title" style={{ color: 'white' }}>Parcours académique</h2>
           
           <div className="formation-grid">
             {/* Epitech */}

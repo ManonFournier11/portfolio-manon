@@ -795,7 +795,7 @@ function App() {
                 </svg>
               </div>
               <h3>Localisation</h3>
-              <p>Wambrechies (59)</p>
+              <p>Lille</p>
               <span className="contact-extra">Permis B • Véhiculée</span>
             </div>
           </div>

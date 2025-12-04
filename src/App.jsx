@@ -805,7 +805,7 @@ function App() {
       {/* Footer */}
       <footer className="footer">
         <div className="footer-container">
-          <p>© 2025 Manon Fournier • Fait avec 💚 et beaucoup de café</p>
+          <p>© 2025 Manon Fournier • Fait avec le 💚 et beaucoup de café</p>
         </div>
       </footer>
     </div>

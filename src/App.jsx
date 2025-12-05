@@ -215,7 +215,7 @@ function App() {
                 <div className="timeline-header">
                   <img src={logoLeroyMerlin} alt="Leroy Merlin" className="timeline-logo" />
                   <div className="timeline-info">
-                    <h3>Responsable communication</h3>
+                    <h3>Responsable communication : Finance - Performance - Juridique - Ethique & Compliance - Développement immobilier</h3>
                     <p className="timeline-company">Leroy Merlin France - Lezennes - CDI</p>
                     <p className="timeline-date">09/2020 - 08/2025</p>
                     <span className="timeline-badge">5 ans</span>
@@ -237,7 +237,7 @@ function App() {
                 <div className="timeline-header">
                   <img src={logoLeroyMerlin} alt="Leroy Merlin" className="timeline-logo" />
                   <div className="timeline-info">
-                    <h3>Chargée de communication interne</h3>
+                    <h3>Chargée de communication interne - Projet transformation direction financière</h3>
                     <p className="timeline-company">Leroy Merlin France - Lezennes - CDD</p>
                     <p className="timeline-date">09/2019 - 09/2020</p>
                     <span className="timeline-badge">1 an et 1 mois</span>
@@ -252,14 +252,14 @@ function App() {
               </div>
             </div>
 
-            {/* ADEO - Chargée de communication interne */}
+            {/* ADEO - Chargée de communication interne -  */}
             <div className="timeline-item">
               <div className="timeline-marker"></div>
               <div className="timeline-content">
                 <div className="timeline-header">
                   <img src={logoAdeo} alt="Adeo" className="timeline-logo" />
                   <div className="timeline-info">
-                    <h3>Chargée de communication interne</h3>
+                    <h3>Chargée de communication interne - Déploiement ERP Oracle</h3>
                     <p className="timeline-company">Adeo - Lezennes - CDD</p>
                     <p className="timeline-date">09/2018 - 09/2020</p>
                     <span className="timeline-badge">2 ans et 1 mois</span>
@@ -267,7 +267,7 @@ function App() {
                 </div>
                 <ul className="timeline-details">
                   <li><strong>Stratégie de Transformation :</strong> Définition de stratégies de communication alignées aux objectifs de transformation.</li>
-                  <li><strong>Change Management :</strong> Appui au change management dans le déploiement des projets.</li>
+                  <li><strong>Change Management :</strong> Accompagnement des équipes dans le déploiement de projets majeurs, dont l’implémentation d’un ERP Oracle (communication, acculturation, gestion des impacts métiers).</li>
                   <li><strong>Événementiel Majeur :</strong> Organisation d'événements (kick-offs, séminaires, workshops) pouvant aller jusqu'à 2000 personnes, en présentiel et en formats digitaux.</li>
                   <li><strong>Production de Contenus :</strong> Rédaction de contenus éditoriaux, y compris en anglais. Création de livrables print / web / vidéo.</li>
                 </ul>

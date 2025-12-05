@@ -124,8 +124,8 @@ function App() {
               </h1>
               
               <div className="about-text">
-                <p className="about-intro">
-                  Passionnée par la création de produits à impact, je <strong>capitalise</strong> sur une expertise solide en communication stratégique et en accompagnement du changement pour piloter des produits digitaux en <strong>méthodologies agiles.</strong>
+                <p>
+                  Passionnée par la création de produits à impact, je capitalise sur une expertise solide en communication stratégique et en accompagnement du changement pour piloter des produits digitaux en méthodologies agiles.
                 </p>
                 <p>
                   Mes 10 années en communication interne m'ont permis d'acquérir une compréhension fine des organisations complexes et des enjeux de transformation. Cette expérience est un atout majeur qui me permet de poser l'utilisateur au centre de chaque décision produit et d'aligner les parties prenantes.

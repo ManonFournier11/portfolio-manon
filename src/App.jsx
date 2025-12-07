@@ -382,7 +382,7 @@ function App() {
               </div>
               <h3>BTS Négociation relation client en alternance</h3>
           
-              <p className="formation-school">ATechniques de prospection, vente et négociation, gestion du point de vente, marketing fondamental et événementiel, communication digitale et de marque, animation de communautés, culture e-commerce, gestion de projet (méthodo, budget, clients/fournisseurs), prise de parole, communication interpersonnelle, anglais professionnel.</p>
+              <p className="formation-school">Techniques de prospection, vente et négociation, gestion du point de vente, marketing fondamental et événementiel, communication digitale et de marque, animation de communautés, culture e-commerce, gestion de projet (méthodo, budget, clients/fournisseurs), prise de parole, communication interpersonnelle, anglais professionnel.</p>
               <p className="formation-school">EFFICOM</p>
               <p className="formation-date">2015 - 2017</p>
             </div>

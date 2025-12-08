@@ -4,6 +4,9 @@ import './App.css'
 // Import photo
 import photoManon from './assets/photo-manon.jpg'
 
+// Import favicon
+import favicon from '/favicon.ico'
+
 // Import logos entreprises
 import logoArtapisserie from './assets/logos/artapisserie.png'
 import logoLeroyMerlin from './assets/logos/leroy-merlin.png'
@@ -78,6 +81,7 @@ function App() {
       <nav className="navbar">
         <div className="nav-container">
           <a href="#about" className="nav-logo" onClick={(e) => { e.preventDefault(); scrollToSection('about') }}>
+            <img src={favicon} alt="Logo" className="nav-logo-icon" />
             Manon Fournier <span className="nav-logo-subtitle">Product Management</span>
           </a>
           
